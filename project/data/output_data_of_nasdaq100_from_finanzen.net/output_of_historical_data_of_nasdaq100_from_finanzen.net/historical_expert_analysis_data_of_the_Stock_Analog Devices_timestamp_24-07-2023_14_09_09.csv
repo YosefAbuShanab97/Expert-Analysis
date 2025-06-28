@@ -1,0 +1,490 @@
+Date,Buy/Sell/Hold,Name,Bank Name
+31.05.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+31.05.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.03.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+28.02.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+29.12.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+22.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+21.11.17,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+16.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+31.08.17,Buy,Analog Devices Outperform,RBC Capital Markets
+01.06.17,Buy,Analog Devices Outperform,RBC Capital Markets
+31.05.17,Buy,Analog Devices Buy,Drexel Hamilton
+24.04.17,Buy,Analog Devices Overweight,Stephens Inc.
+13.03.17,Hold,Analog Devices Equal weight,Barclays Capital
+13.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+07.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+16.02.17,Buy,Analog Devices Buy,Drexel Hamilton
+30.01.17,Buy,Analog Devices Outperform,RBC Capital Markets
+08.09.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.07.16,Buy,Analog Devices Outperform,RBC Capital Markets
+15.01.16,Hold,Analog Devices Neutral,UBS AG
+15.01.16,Hold,Analog Devices Neutral,MKM Partners
+15.01.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+15.12.15,Hold,Analog Devices Perform,Oppenheimer & Co. Inc.
+04.12.15,Hold,Analog Devices Equal weight,Barclays Capital
+25.11.15,Hold,Analog Devices Neutral,MKM Partners
+23.11.15,Buy,Analog Devices Outperform,RBC Capital Markets
+16.10.15,Buy,Analog Devices Outperform,BMO Capital Markets
+19.08.15,Hold,Analog Devices Neutral,MKM Partners
+19.08.15,Hold,Analog Devices Neutral,UBS AG
+19.08.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+06.08.15,Hold,Analog Devices Hold,Deutsche Bank AG
+03.08.15,Buy,Analog Devices Outperform,RBC Capital Markets
+23.07.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+20.05.15,Buy,Analog Devices Buy,Argus Research Company
+20.05.15,Hold,Analog Devices Neutral,MKM Partners
+20.05.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+30.03.15,Buy,Analog Devices overweight,Barclays Capital
+18.02.15,Hold,Analog Devices Hold,Deutsche Bank AG
+18.02.15,Hold,Analog Devices Neutral,MKM Partners
+18.02.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+18.02.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+05.01.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+26.11.14,Hold,Analog Devices Sector Perform,RBC Capital Markets
+14.10.14,Buy,Analog Devices Outperform,Oppenheimer & Co. Inc.
+30.11.12,Buy,Analog Devices outperform,Pacific Crest Securities Inc.
+29.11.12,Hold,Analog Devices hold,Deutsche Bank Securities
+29.11.12,Buy,Analog Devices outperform,Robert W. Baird & Co. Incorporated
+12.10.12,Hold,Analog Devices equal-weight,Morgan Stanley
+19.09.12,Hold,Analog Devices sector perform,RBC Capital Markets
+23.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+31.05.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+31.05.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.03.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+28.02.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+29.12.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+22.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+21.11.17,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+16.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+31.08.17,Buy,Analog Devices Outperform,RBC Capital Markets
+01.06.17,Buy,Analog Devices Outperform,RBC Capital Markets
+31.05.17,Buy,Analog Devices Buy,Drexel Hamilton
+24.04.17,Buy,Analog Devices Overweight,Stephens Inc.
+13.03.17,Hold,Analog Devices Equal weight,Barclays Capital
+13.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+07.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+16.02.17,Buy,Analog Devices Buy,Drexel Hamilton
+30.01.17,Buy,Analog Devices Outperform,RBC Capital Markets
+08.09.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.07.16,Buy,Analog Devices Outperform,RBC Capital Markets
+15.01.16,Hold,Analog Devices Neutral,UBS AG
+15.01.16,Hold,Analog Devices Neutral,MKM Partners
+15.01.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+15.12.15,Hold,Analog Devices Perform,Oppenheimer & Co. Inc.
+04.12.15,Hold,Analog Devices Equal weight,Barclays Capital
+25.11.15,Hold,Analog Devices Neutral,MKM Partners
+23.11.15,Buy,Analog Devices Outperform,RBC Capital Markets
+16.10.15,Buy,Analog Devices Outperform,BMO Capital Markets
+19.08.15,Hold,Analog Devices Neutral,MKM Partners
+19.08.15,Hold,Analog Devices Neutral,UBS AG
+19.08.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+06.08.15,Hold,Analog Devices Hold,Deutsche Bank AG
+03.08.15,Buy,Analog Devices Outperform,RBC Capital Markets
+23.07.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+20.05.15,Buy,Analog Devices Buy,Argus Research Company
+20.05.15,Hold,Analog Devices Neutral,MKM Partners
+20.05.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+30.03.15,Buy,Analog Devices overweight,Barclays Capital
+18.02.15,Hold,Analog Devices Hold,Deutsche Bank AG
+18.02.15,Hold,Analog Devices Neutral,MKM Partners
+18.02.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+18.02.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+05.01.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+26.11.14,Hold,Analog Devices Sector Perform,RBC Capital Markets
+14.10.14,Buy,Analog Devices Outperform,Oppenheimer & Co. Inc.
+30.11.12,Buy,Analog Devices outperform,Pacific Crest Securities Inc.
+29.11.12,Hold,Analog Devices hold,Deutsche Bank Securities
+29.11.12,Buy,Analog Devices outperform,Robert W. Baird & Co. Incorporated
+12.10.12,Hold,Analog Devices equal-weight,Morgan Stanley
+19.09.12,Hold,Analog Devices sector perform,RBC Capital Markets
+23.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+23.08.12,Buy,Analog Devices neutral,UBS AG
+23.08.12,Buy,Analog Devices hold,Jefferies & Company Inc.
+17.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+24.05.12,Buy,Analog Devices equal-weight,Barclays Capital
+23.05.12,Buy,Analog Devices neutral,UBS AG
+09.05.12,Buy,Analog Devices neutral,UBS AG
+24.02.12,Buy,Analog Devices outperform,RBC Capital Markets
+23.02.12,Buy,Analog Devices neutral,Nomura
+23.02.12,Buy,Analog Devices outperform,RBC Capital Markets
+04.01.12,Buy,Analog Devices neutral,Nomura
+15.12.11,Buy,Analog Devices outperform,RBC Capital Markets
+29.11.11,Buy,Analog Devices neutral,Nomura
+23.11.11,Hold,Analog Devices neutral,Nomura
+23.11.11,Buy,Analog Devices buy,Citigroup Corp.
+23.11.11,Buy,Analog Devices hold,Jefferies & Company Inc.
+21.11.11,Buy,Analog Devices buy,Citigroup Corp.
+12.10.11,Buy,Analog Devices outperform,RBC Capital Markets
+19.09.11,Buy,Analog Devices buy,UBS AG
+16.08.11,Buy,Analog Devices buy,Citigroup Corp.
+20.05.11,Hold,Analog Devices buy,Citigroup Corp.
+19.05.11,Hold,Analog Devices reduce,Nomura
+18.05.11,Buy,Analog Devices neutral,UBS AG
+17.05.11,Hold,Analog Devices neutral,Credit Suisse Group
+17.05.11,Hold,Analog Devices neutral,UBS AG
+16.05.11,Hold,Analog Devices buy,Citigroup Corp.
+31.03.11,Buy,Analog Devices overweight,JP Morgan Chase & Co.
+16.02.11,Buy,Analog Devices neutral,Credit Suisse Group
+16.02.11,Hold,Analog Devices neutral,UBS AG
+16.02.11,Hold,Analog Devices overweight,JP Morgan Chase & Co.
+15.02.11,Buy,Analog Devices neutral,Credit Suisse Group
+11.02.11,Hold,Analog Devices overweight,Barclays Capital
+24.01.11,Buy,Analog Devices overweight,Barclays Capital
+20.01.11,Buy,Analog Devices neutral,UBS AG
+22.12.10,Buy,Analog Devices overweight,Barclays Capital
+24.11.10,Hold,Analog Devices overweight,Barclays Capital
+24.11.10,Buy,Analog Devices neutral,JP Morgan Chase & Co.
+23.11.10,Buy,Analog Devices neutral,Credit Suisse Group
+23.11.10,Hold,Analog Devices neutral,UBS AG
+13.10.10,Hold,Analog Devices overweight,Barclays Capital
+19.08.10,Buy,Analog Devices buy,Citigroup Corp.
+18.08.10,Hold,Analog Devices buy,"Caris & Company, Inc."
+18.08.10,Hold,Analog Devices neutral,Credit Suisse Group
+17.08.10,Hold,Analog Devices neutral,Credit Suisse Group
+11.03.10,Buy,Analog Devices halten,Credit Suisse Group
+21.12.09,Buy,Analog Devices buy,Citigroup Corp.
+25.11.09,Hold,Analog Devices buy,Goldman Sachs Group Inc.
+25.11.09,Buy,Analog Devices buy,UBS AG
+25.11.09,Hold,Analog Devices buy,Citigroup Corp.
+24.11.09,Hold,Analog Devices neutral,Credit Suisse Group
+19.11.09,Buy,Analog Devices buy,Goldman Sachs Group Inc.
+31.05.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+31.05.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.03.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+28.02.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+29.12.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+22.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+21.11.17,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+16.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+31.08.17,Buy,Analog Devices Outperform,RBC Capital Markets
+01.06.17,Buy,Analog Devices Outperform,RBC Capital Markets
+31.05.17,Buy,Analog Devices Buy,Drexel Hamilton
+24.04.17,Buy,Analog Devices Overweight,Stephens Inc.
+13.03.17,Hold,Analog Devices Equal weight,Barclays Capital
+13.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+07.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+16.02.17,Buy,Analog Devices Buy,Drexel Hamilton
+30.01.17,Buy,Analog Devices Outperform,RBC Capital Markets
+08.09.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.07.16,Buy,Analog Devices Outperform,RBC Capital Markets
+15.01.16,Hold,Analog Devices Neutral,UBS AG
+15.01.16,Hold,Analog Devices Neutral,MKM Partners
+15.01.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+15.12.15,Hold,Analog Devices Perform,Oppenheimer & Co. Inc.
+04.12.15,Hold,Analog Devices Equal weight,Barclays Capital
+25.11.15,Hold,Analog Devices Neutral,MKM Partners
+23.11.15,Buy,Analog Devices Outperform,RBC Capital Markets
+16.10.15,Buy,Analog Devices Outperform,BMO Capital Markets
+19.08.15,Hold,Analog Devices Neutral,MKM Partners
+19.08.15,Hold,Analog Devices Neutral,UBS AG
+19.08.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+06.08.15,Hold,Analog Devices Hold,Deutsche Bank AG
+03.08.15,Buy,Analog Devices Outperform,RBC Capital Markets
+23.07.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+20.05.15,Buy,Analog Devices Buy,Argus Research Company
+20.05.15,Hold,Analog Devices Neutral,MKM Partners
+20.05.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+30.03.15,Buy,Analog Devices overweight,Barclays Capital
+18.02.15,Hold,Analog Devices Hold,Deutsche Bank AG
+18.02.15,Hold,Analog Devices Neutral,MKM Partners
+18.02.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+18.02.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+05.01.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+26.11.14,Hold,Analog Devices Sector Perform,RBC Capital Markets
+14.10.14,Buy,Analog Devices Outperform,Oppenheimer & Co. Inc.
+30.11.12,Buy,Analog Devices outperform,Pacific Crest Securities Inc.
+29.11.12,Hold,Analog Devices hold,Deutsche Bank Securities
+29.11.12,Buy,Analog Devices outperform,Robert W. Baird & Co. Incorporated
+12.10.12,Hold,Analog Devices equal-weight,Morgan Stanley
+19.09.12,Hold,Analog Devices sector perform,RBC Capital Markets
+23.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+23.08.12,Buy,Analog Devices neutral,UBS AG
+23.08.12,Buy,Analog Devices hold,Jefferies & Company Inc.
+17.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+24.05.12,Buy,Analog Devices equal-weight,Barclays Capital
+23.05.12,Buy,Analog Devices neutral,UBS AG
+09.05.12,Buy,Analog Devices neutral,UBS AG
+24.02.12,Buy,Analog Devices outperform,RBC Capital Markets
+23.02.12,Buy,Analog Devices neutral,Nomura
+23.02.12,Buy,Analog Devices outperform,RBC Capital Markets
+04.01.12,Buy,Analog Devices neutral,Nomura
+15.12.11,Buy,Analog Devices outperform,RBC Capital Markets
+29.11.11,Buy,Analog Devices neutral,Nomura
+23.11.11,Hold,Analog Devices neutral,Nomura
+23.11.11,Buy,Analog Devices buy,Citigroup Corp.
+23.11.11,Buy,Analog Devices hold,Jefferies & Company Inc.
+21.11.11,Buy,Analog Devices buy,Citigroup Corp.
+12.10.11,Buy,Analog Devices outperform,RBC Capital Markets
+19.09.11,Buy,Analog Devices buy,UBS AG
+16.08.11,Buy,Analog Devices buy,Citigroup Corp.
+20.05.11,Hold,Analog Devices buy,Citigroup Corp.
+19.05.11,Hold,Analog Devices reduce,Nomura
+18.05.11,Buy,Analog Devices neutral,UBS AG
+17.05.11,Hold,Analog Devices neutral,Credit Suisse Group
+17.05.11,Hold,Analog Devices neutral,UBS AG
+16.05.11,Hold,Analog Devices buy,Citigroup Corp.
+31.03.11,Buy,Analog Devices overweight,JP Morgan Chase & Co.
+16.02.11,Buy,Analog Devices neutral,Credit Suisse Group
+16.02.11,Hold,Analog Devices neutral,UBS AG
+16.02.11,Hold,Analog Devices overweight,JP Morgan Chase & Co.
+15.02.11,Buy,Analog Devices neutral,Credit Suisse Group
+11.02.11,Hold,Analog Devices overweight,Barclays Capital
+24.01.11,Buy,Analog Devices overweight,Barclays Capital
+20.01.11,Buy,Analog Devices neutral,UBS AG
+22.12.10,Buy,Analog Devices overweight,Barclays Capital
+24.11.10,Hold,Analog Devices overweight,Barclays Capital
+24.11.10,Buy,Analog Devices neutral,JP Morgan Chase & Co.
+23.11.10,Buy,Analog Devices neutral,Credit Suisse Group
+23.11.10,Hold,Analog Devices neutral,UBS AG
+13.10.10,Hold,Analog Devices overweight,Barclays Capital
+19.08.10,Buy,Analog Devices buy,Citigroup Corp.
+18.08.10,Hold,Analog Devices buy,"Caris & Company, Inc."
+18.08.10,Hold,Analog Devices neutral,Credit Suisse Group
+17.08.10,Hold,Analog Devices neutral,Credit Suisse Group
+11.03.10,Buy,Analog Devices halten,Credit Suisse Group
+21.12.09,Buy,Analog Devices buy,Citigroup Corp.
+25.11.09,Hold,Analog Devices buy,Goldman Sachs Group Inc.
+25.11.09,Buy,Analog Devices buy,UBS AG
+25.11.09,Hold,Analog Devices buy,Citigroup Corp.
+24.11.09,Hold,Analog Devices neutral,Credit Suisse Group
+19.11.09,Buy,Analog Devices buy,Goldman Sachs Group Inc.
+20.08.09,Buy,Analog Devices overweight,Morgan Stanley
+20.08.09,Buy,Analog Devices overweight,Barclays Capital
+19.08.09,Buy,Analog Devices buy,"Caris & Company, Inc."
+19.08.09,Buy,Analog Devices neutral,Credit Suisse Group
+17.08.09,Buy,Analog Devices neutral,Credit Suisse Group
+13.08.09,Buy,Analog Devices outperform,Robert W. Baird & Co. Incorporated
+23.07.09,Buy,Analog Devices buy,UBS AG
+26.06.09,Buy,Analog Devices strong buy,"Raymond James Financial, Inc."
+20.05.09,Buy,Analog Devices neutral,Credit Suisse Group
+20.05.09,Buy,Analog Devices neutral,Robert W. Baird & Co. Incorporated
+20.05.09,Buy,Analog Devices buy,"Caris & Company, Inc."
+20.05.09,Buy,Analog Devices buy,UBS AG
+20.02.09,Hold,Analog Devices buy,UBS AG
+05.12.08,Buy,Analog Devices underperform,Robert W. Baird & Co. Incorporated
+26.11.08,Buy,Analog Devices buy,UBS AG
+15.09.08,Buy,Analog Devices neutral,American Technology Research Inc.
+21.08.08,Buy,Analog Devices buy,Goldman Sachs Group Inc.
+21.08.08,Buy,Analog Devices buy,UBS AG
+21.05.08,Buy,Analog Devices buy,American Technology Research Inc.
+21.05.08,Hold,Analog Devices neutral,Credit Suisse Group
+21.05.08,Hold,Analog Devices outperform,"Cowen and Company, LLC"
+13.05.08,Buy,Analog Devices overweight,Lehman Brothers Inc.
+10.04.08,Hold,Analog Devices buy,Banc of America Securities LLC
+21.02.08,Hold,Analog Devices average,"Caris & Company, Inc."
+19.02.08,Hold,Analog Devices buy,American Technology Research Inc.
+19.02.08,Buy,Analog Devices equal-weight,Lehman Brothers Inc.
+02.01.08,Buy,Analog Devices neutral,Banc of America Sec.
+28.11.07,Hold,Analog Devices outperform,Bear Stearns Companies Inc.
+28.11.07,Hold,Analog Devices buy,American Technology Research Inc.
+28.11.07,Buy,Analog Devices average,"Caris & Company, Inc."
+16.11.07,Hold,Analog Devices equal-weight,Lehman Brothers Inc.
+05.10.07,Buy,Analog Devices outperform,Wachovia Sec
+23.08.07,Buy,Analog Devices market perform,"Raymond James Financial, Inc."
+22.08.07,Buy,Analog Devices buy,UBS AG
+21.08.07,Hold,Analog Devices equal weight,Lehman Brothers Inc.
+28.06.07,Buy,Analog Devices buy,UBS
+25.06.07,Buy,Analog Devices underperform,Piper Jaffray
+19.06.07,Hold,Analog Devices buy,A.G. Edwards & Sons
+24.05.07,Hold,Analog Devices buy,Banc of America Sec.
+24.05.07,Buy,Analog Devices neutral,JP Morgan
+24.05.07,Hold,Analog Devices neutral,Crédit Suisse
+14.05.07,Hold,Analog Devices buy,UBS
+14.05.07,Hold,Analog Devices buy,UBS
+04.05.07,Buy,Analog Devices buy,Banc of America Sec.
+24.04.07,Buy,Analog Devices outperform,Bear Stearns
+22.02.07,Hold,Analog Devices neutral-weight,Prudential Financial
+05.02.07,Buy,Analog Devices Buy,Am Tech/ JSA Research
+07.12.06,Hold,Analog Devices Underweight,HSBC Securities
+28.11.06,Hold,Analog Devices market perform,Sanford C. Bernstein & Co
+15.11.06,Buy,Analog Devices buy,Sanders Morris Harris
+31.05.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+31.05.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.03.18,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+28.02.18,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+29.12.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+22.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+21.11.17,Buy,Analog Devices Buy,"B. Riley FBR, Inc."
+16.11.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+31.08.17,Buy,Analog Devices Outperform,RBC Capital Markets
+01.06.17,Buy,Analog Devices Outperform,RBC Capital Markets
+31.05.17,Buy,Analog Devices Buy,Drexel Hamilton
+24.04.17,Buy,Analog Devices Overweight,Stephens Inc.
+13.03.17,Hold,Analog Devices Equal weight,Barclays Capital
+13.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+07.03.17,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+16.02.17,Buy,Analog Devices Buy,Drexel Hamilton
+30.01.17,Buy,Analog Devices Outperform,RBC Capital Markets
+08.09.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+01.07.16,Buy,Analog Devices Outperform,RBC Capital Markets
+15.01.16,Hold,Analog Devices Neutral,UBS AG
+15.01.16,Hold,Analog Devices Neutral,MKM Partners
+15.01.16,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+15.12.15,Hold,Analog Devices Perform,Oppenheimer & Co. Inc.
+04.12.15,Hold,Analog Devices Equal weight,Barclays Capital
+25.11.15,Hold,Analog Devices Neutral,MKM Partners
+23.11.15,Buy,Analog Devices Outperform,RBC Capital Markets
+16.10.15,Buy,Analog Devices Outperform,BMO Capital Markets
+19.08.15,Hold,Analog Devices Neutral,MKM Partners
+19.08.15,Hold,Analog Devices Neutral,UBS AG
+19.08.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+06.08.15,Hold,Analog Devices Hold,Deutsche Bank AG
+03.08.15,Buy,Analog Devices Outperform,RBC Capital Markets
+23.07.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+20.05.15,Buy,Analog Devices Buy,Argus Research Company
+20.05.15,Hold,Analog Devices Neutral,MKM Partners
+20.05.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+30.03.15,Buy,Analog Devices overweight,Barclays Capital
+18.02.15,Hold,Analog Devices Hold,Deutsche Bank AG
+18.02.15,Hold,Analog Devices Neutral,MKM Partners
+18.02.15,Buy,Analog Devices Buy,"Stifel, Nicolaus & Co., Inc."
+18.02.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+05.01.15,Hold,Analog Devices Sector Perform,RBC Capital Markets
+26.11.14,Hold,Analog Devices Sector Perform,RBC Capital Markets
+14.10.14,Buy,Analog Devices Outperform,Oppenheimer & Co. Inc.
+30.11.12,Buy,Analog Devices outperform,Pacific Crest Securities Inc.
+29.11.12,Hold,Analog Devices hold,Deutsche Bank Securities
+29.11.12,Buy,Analog Devices outperform,Robert W. Baird & Co. Incorporated
+12.10.12,Hold,Analog Devices equal-weight,Morgan Stanley
+19.09.12,Hold,Analog Devices sector perform,RBC Capital Markets
+23.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+23.08.12,Buy,Analog Devices neutral,UBS AG
+23.08.12,Buy,Analog Devices hold,Jefferies & Company Inc.
+17.08.12,Buy,Analog Devices outperform,RBC Capital Markets
+24.05.12,Buy,Analog Devices equal-weight,Barclays Capital
+23.05.12,Buy,Analog Devices neutral,UBS AG
+09.05.12,Buy,Analog Devices neutral,UBS AG
+24.02.12,Buy,Analog Devices outperform,RBC Capital Markets
+23.02.12,Buy,Analog Devices neutral,Nomura
+23.02.12,Buy,Analog Devices outperform,RBC Capital Markets
+04.01.12,Buy,Analog Devices neutral,Nomura
+15.12.11,Buy,Analog Devices outperform,RBC Capital Markets
+29.11.11,Buy,Analog Devices neutral,Nomura
+23.11.11,Hold,Analog Devices neutral,Nomura
+23.11.11,Buy,Analog Devices buy,Citigroup Corp.
+23.11.11,Buy,Analog Devices hold,Jefferies & Company Inc.
+21.11.11,Buy,Analog Devices buy,Citigroup Corp.
+12.10.11,Buy,Analog Devices outperform,RBC Capital Markets
+19.09.11,Buy,Analog Devices buy,UBS AG
+16.08.11,Buy,Analog Devices buy,Citigroup Corp.
+20.05.11,Hold,Analog Devices buy,Citigroup Corp.
+19.05.11,Hold,Analog Devices reduce,Nomura
+18.05.11,Buy,Analog Devices neutral,UBS AG
+17.05.11,Hold,Analog Devices neutral,Credit Suisse Group
+17.05.11,Hold,Analog Devices neutral,UBS AG
+16.05.11,Hold,Analog Devices buy,Citigroup Corp.
+31.03.11,Buy,Analog Devices overweight,JP Morgan Chase & Co.
+16.02.11,Buy,Analog Devices neutral,Credit Suisse Group
+16.02.11,Hold,Analog Devices neutral,UBS AG
+16.02.11,Hold,Analog Devices overweight,JP Morgan Chase & Co.
+15.02.11,Buy,Analog Devices neutral,Credit Suisse Group
+11.02.11,Hold,Analog Devices overweight,Barclays Capital
+24.01.11,Buy,Analog Devices overweight,Barclays Capital
+20.01.11,Buy,Analog Devices neutral,UBS AG
+22.12.10,Buy,Analog Devices overweight,Barclays Capital
+24.11.10,Hold,Analog Devices overweight,Barclays Capital
+24.11.10,Buy,Analog Devices neutral,JP Morgan Chase & Co.
+23.11.10,Buy,Analog Devices neutral,Credit Suisse Group
+23.11.10,Hold,Analog Devices neutral,UBS AG
+13.10.10,Hold,Analog Devices overweight,Barclays Capital
+19.08.10,Buy,Analog Devices buy,Citigroup Corp.
+18.08.10,Hold,Analog Devices buy,"Caris & Company, Inc."
+18.08.10,Hold,Analog Devices neutral,Credit Suisse Group
+17.08.10,Hold,Analog Devices neutral,Credit Suisse Group
+11.03.10,Buy,Analog Devices halten,Credit Suisse Group
+21.12.09,Buy,Analog Devices buy,Citigroup Corp.
+25.11.09,Hold,Analog Devices buy,Goldman Sachs Group Inc.
+25.11.09,Buy,Analog Devices buy,UBS AG
+25.11.09,Hold,Analog Devices buy,Citigroup Corp.
+24.11.09,Hold,Analog Devices neutral,Credit Suisse Group
+19.11.09,Buy,Analog Devices buy,Goldman Sachs Group Inc.
+20.08.09,Buy,Analog Devices overweight,Morgan Stanley
+20.08.09,Buy,Analog Devices overweight,Barclays Capital
+19.08.09,Buy,Analog Devices buy,"Caris & Company, Inc."
+19.08.09,Buy,Analog Devices neutral,Credit Suisse Group
+17.08.09,Buy,Analog Devices neutral,Credit Suisse Group
+13.08.09,Buy,Analog Devices outperform,Robert W. Baird & Co. Incorporated
+23.07.09,Buy,Analog Devices buy,UBS AG
+26.06.09,Buy,Analog Devices strong buy,"Raymond James Financial, Inc."
+20.05.09,Buy,Analog Devices neutral,Credit Suisse Group
+20.05.09,Buy,Analog Devices neutral,Robert W. Baird & Co. Incorporated
+20.05.09,Buy,Analog Devices buy,"Caris & Company, Inc."
+20.05.09,Buy,Analog Devices buy,UBS AG
+20.02.09,Hold,Analog Devices buy,UBS AG
+05.12.08,Buy,Analog Devices underperform,Robert W. Baird & Co. Incorporated
+26.11.08,Buy,Analog Devices buy,UBS AG
+15.09.08,Buy,Analog Devices neutral,American Technology Research Inc.
+21.08.08,Buy,Analog Devices buy,Goldman Sachs Group Inc.
+21.08.08,Buy,Analog Devices buy,UBS AG
+21.05.08,Buy,Analog Devices buy,American Technology Research Inc.
+21.05.08,Hold,Analog Devices neutral,Credit Suisse Group
+21.05.08,Hold,Analog Devices outperform,"Cowen and Company, LLC"
+13.05.08,Buy,Analog Devices overweight,Lehman Brothers Inc.
+10.04.08,Hold,Analog Devices buy,Banc of America Securities LLC
+21.02.08,Hold,Analog Devices average,"Caris & Company, Inc."
+19.02.08,Hold,Analog Devices buy,American Technology Research Inc.
+19.02.08,Buy,Analog Devices equal-weight,Lehman Brothers Inc.
+02.01.08,Buy,Analog Devices neutral,Banc of America Sec.
+28.11.07,Hold,Analog Devices outperform,Bear Stearns Companies Inc.
+28.11.07,Hold,Analog Devices buy,American Technology Research Inc.
+28.11.07,Buy,Analog Devices average,"Caris & Company, Inc."
+16.11.07,Hold,Analog Devices equal-weight,Lehman Brothers Inc.
+05.10.07,Buy,Analog Devices outperform,Wachovia Sec
+23.08.07,Buy,Analog Devices market perform,"Raymond James Financial, Inc."
+22.08.07,Buy,Analog Devices buy,UBS AG
+21.08.07,Hold,Analog Devices equal weight,Lehman Brothers Inc.
+28.06.07,Buy,Analog Devices buy,UBS
+25.06.07,Buy,Analog Devices underperform,Piper Jaffray
+19.06.07,Hold,Analog Devices buy,A.G. Edwards & Sons
+24.05.07,Hold,Analog Devices buy,Banc of America Sec.
+24.05.07,Buy,Analog Devices neutral,JP Morgan
+24.05.07,Hold,Analog Devices neutral,Crédit Suisse
+14.05.07,Hold,Analog Devices buy,UBS
+14.05.07,Hold,Analog Devices buy,UBS
+04.05.07,Buy,Analog Devices buy,Banc of America Sec.
+24.04.07,Buy,Analog Devices outperform,Bear Stearns
+22.02.07,Hold,Analog Devices neutral-weight,Prudential Financial
+05.02.07,Buy,Analog Devices Buy,Am Tech/ JSA Research
+07.12.06,Hold,Analog Devices Underweight,HSBC Securities
+28.11.06,Hold,Analog Devices market perform,Sanford C. Bernstein & Co
+15.11.06,Buy,Analog Devices buy,Sanders Morris Harris
+15.11.06,Buy,Analog Devices Buy,Sanders Morris Harris
+15.11.06,Buy,Analog Devices neutral-weight,Prudential Financial
+26.10.06,Buy,Analog Devices hold,Deutsche Securities
+26.10.06,Buy,Analog Devices outperform,Crédit Suisse
+26.10.06,Buy,Analog Devices neutral,Robert W. Baird
+25.10.06,Buy,Analog Devices Neutral,Robert W. Baird
+25.10.06,Buy,Analog Devices Outperform,Credit Suisse
+25.10.06,Buy,Analog Devices Neutral,Prudential Securities
+25.09.06,Buy,Analog Devices average,Caris & Company
+14.08.06,Buy,Analog Devices neutral,HSBC Investmentbank
+11.08.06,Buy,Analog Devices buy,Banc of America Sec.
+11.08.06,Buy,Analog Devices buy,Sanders Morris Harris
+11.08.06,Hold,Analog Devices neutral-weight,Prudential Financial
+06.07.06,Buy,Analog Devices hold,Citigroup
+06.07.06,Buy,Analog Devices Hold,Citigroup
+15.05.06,Buy,Analog Devices buy,Caris & Company
+12.05.06,Buy,Analog Devices neutral-weight,Prudential Financial
+12.05.06,Buy,Analog Devices Buy,Caris & Company
+10.02.06,Buy,Analog Devices buy,Sanders Morris Harris
+10.02.06,Hold,Analog Devices underperform,Piper Jaffray
+10.02.06,Hold,Analog Devices underperform,Piper Jaffray
+13.01.06,Buy,Analog Devices underperform,Piper Jaffray
+16.11.05,Hold,Analog Devices underperform,Piper Jaffray
+16.11.05,Hold,Analog Devices neutral-weight,Prudential Financial
+21.10.05,Hold,Analog Devices buy,UBS
+20.10.05,Buy,Analog Devices neutral-weight,Prudential Financial
+20.10.05,Buy,Analog Devices underperform,Piper Jaffray
+12.08.05,Hold,Analog Devices above average,Caris & Company
+12.08.05,Hold,Analog Devices overweight,Morgan Stanley
+12.08.05,Buy,Analog Devices underperform,Piper Jaffray
+11.08.05,Hold,Analog Devices overweight,Morgan Stanley
+11.08.05,Buy,Analog Devices Overweight,Morgan Stanley
+04.08.05,Buy,Analog Devices hold,Deutsche Securities
+03.08.05,Buy,Analog Devices underperform,Piper Jaffray
+03.08.05,Hold,Analog Devices underperform,Piper Jaffray
+07.07.05,Buy,Analog Devices Outperform,Credit Suisse First Boston
+06.06.05,Buy,Analog Devices kaufen,Geldbrief
+12.04.05,Hold,Analog Devices Outperform,Robert W. Baird
+10.02.05,Hold,Analog Devices Buy,Banc of America Sec.

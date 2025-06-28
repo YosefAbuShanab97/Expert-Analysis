@@ -1,0 +1,100 @@
+Name,Konsensrating,Buy,Overweight,Hold,Underweight,Sell
+T-Mobile US,4.536,24,1,2,0,1
+Constellation Energy,4.385,9,0,4,0,0
+AstraZeneca,4.333,23,2,5,0,0
+MercadoLibre,4.318,16,1,5,0,0
+Marvell Technology,4.3,24,3,3,0,0
+CrowdStrike,4.289,35,4,6,0,0
+DexCom,4.273,17,2,3,0,0
+CoStar Group,4.267,11,1,3,0,0
+ASML,4.235,25,2,6,0,1
+Diamondback Energy,4.233,23,2,4,1,0
+PDD,4.22,41,7,2,0,0
+Palo Alto Networks,4.167,32,5,5,0,0
+Microchip Technology,4.16,16,1,8,0,0
+Baker Hughes,4.154,18,2,6,0,0
+Alphabet A (ex Google),4.151,41,7,5,0,0
+Zscaler,4.15,26,2,12,0,0
+Synopsys,4.143,11,2,1,0,0
+Alphabet C (ex Google),4.135,40,7,5,0,0
+Amazon,4.13,42,7,4,0,1
+Microsoft,4.059,37,6,7,0,1
+KLA-Tencor,4.048,12,0,8,0,1
+Biogen,4.029,22,3,9,0,0
+JD.com,4.021,33,6,8,0,0
+NVIDIA,4.02,36,6,7,1,0
+Copart,4.0,6,1,2,0,0
+PayPal,3.958,29,4,15,0,0
+AMD (Advanced Micro Devices) ,3.953,25,3,15,0,0
+Exelon,3.941,9,0,7,0,1
+Lam Research,3.92,13,1,11,0,0
+Analog Devices,3.9,18,3,9,0,0
+Warner Bros. Discovery,3.897,17,2,9,0,1
+Monster Beverage,3.846,14,1,10,1,0
+Vertex Pharmaceuticals,3.844,18,3,11,0,0
+O Reilly Automotive,3.808,15,2,8,1,0
+Broadcom,3.808,18,4,3,1,0
+Fortinet,3.8,20,4,11,0,0
+Enphase Energy,3.8,25,5,9,1,0
+Meta Platforms (ex Facebook),3.8,39,7,10,1,3
+Mondelez,3.773,13,2,6,1,0
+Electronic Arts,3.759,14,2,13,0,0
+Workday A,3.75,22,5,8,0,1
+Netflix,3.75,21,1,19,0,3
+GLOBALFOUNDRIES,3.75,10,2,3,0,1
+NXP Semiconductors,3.741,13,2,12,0,0
+Lucid,3.727,5,0,5,0,1
+Gilead Sciences,3.7,12,1,17,0,0
+Booking,3.697,17,2,12,1,1
+CSX,3.69,16,4,9,0,0
+Costco Wholesale,3.676,20,4,12,1,0
+Datadog A,3.649,21,6,10,0,0
+Applied Materials,3.625,17,3,10,1,1
+The Kraft Heinz Company,3.619,8,1,12,0,0
+American Electric Power,3.619,9,1,10,0,1
+Regeneron Pharmaceuticals,3.615,14,2,8,2,0
+Align Technology,3.615,7,1,4,1,0
+Starbucks,3.613,11,1,19,0,0
+Comcast,3.613,16,3,10,0,2
+Autodesk,3.607,15,3,8,0,2
+Xcel Energy,3.6,6,0,8,1,0
+QUALCOMM,3.6,16,4,9,0,1
+Ross Stores,3.591,12,3,6,0,1
+Apple,3.571,22,6,13,0,1
+Activision Blizzard,3.565,14,5,4,0,0
+Lululemon Athletica,3.562,20,4,4,2,2
+Charter A,3.56,9,0,14,0,2
+Fiserv,3.556,19,6,11,0,0
+Micron Technology,3.541,21,5,8,1,2
+Cadence Design Systems,3.471,10,3,3,1,0
+Rivian Automotive,3.458,12,2,7,1,2
+Honeywell,3.423,11,3,11,0,1
+Adobe,3.417,15,5,16,0,0
+Cisco,3.417,8,2,14,0,0
+Verisk Analytics A,3.368,8,3,8,0,0
+Cintas,3.35,8,2,9,1,0
+ANSYS,3.333,7,2,8,0,1
+PepsiCo,3.304,9,2,10,1,1
+Keurig Dr Pepper,3.3,7,2,10,0,1
+Dollar Tree,3.296,10,1,13,3,0
+Intuitive Surgical,3.269,11,5,10,0,0
+Zoom Video Communications,3.206,6,1,26,0,1
+Illumina,3.19,8,1,8,1,3
+Airbnb,3.175,13,3,19,0,5
+Tesla,3.174,18,5,17,1,5
+Seagen,3.167,3,1,14,0,0
+Amgen,3.115,8,1,13,2,2
+Marriott,3.087,5,2,15,0,1
+Walgreens Boots Alliance,2.941,2,0,13,1,1
+eBay,2.938,5,2,22,0,3
+IDEXX Laboratories,2.833,5,3,3,1,0
+Old Dominion Freight Line,2.826,5,1,12,1,4
+Cognizant,2.821,4,0,18,1,5
+Paccar,2.783,3,2,16,1,1
+Intel,2.769,5,2,26,1,5
+Automatic Data Processing,2.636,2,1,15,1,3
+Fastenal,2.625,3,0,8,2,3
+Paychex,2.619,2,1,14,1,3
+Intuit,,  Non Value,  Non Value,  Non Value,  Non Value,  Non Value
+Moderna,,  Non Value,  Non Value,  Non Value,  Non Value,  Non Value
+Sirius XM,,  Non Value,  Non Value,  Non Value,  Non Value,  Non Value
